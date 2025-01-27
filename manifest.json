@@ -1,0 +1,10 @@
+{
+  "domain": "warema_webcontrol",
+  "name": "Warema Webcontrol",
+  "codeowners": ["@hubecker"],
+  "dependencies": [],
+  "documentation": "https://github.com//hubecker/ha-warema",
+  "issue_tracker": "https://github.com/hubecker/ha-warema-/issues",
+  "loggers": ["custom_components.warema_controller"],
+  "version": "2025.01.3"
+}
