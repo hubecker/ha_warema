@@ -1,6 +1,6 @@
 {
-  "domain": "warema_wms_webcontrol",
-  "name": "Warema WMS Webcontrol",
+  "domain": "warema_webcontrol",
+  "name": "Warema Webcontrol",
   "version": "0.1.0",
   "documentation": "",
   "dependencies": [],
